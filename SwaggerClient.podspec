@@ -8,4 +8,6 @@ Pod::Spec.new do |s|
   s.license = 'Apache License, Version 2.0'
   s.source_files = 'SwaggerClient/Classes/**/*.swift'
   s.dependency 'Alamofire', '~> 4.5.0'
+  s.summary  = 'swagger test'
+  s.homepage = 'https://github.com/gongxiaokai/swagger-test'
 end
